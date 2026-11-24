@@ -1,5 +1,5 @@
 ## ----------------------------------------------------------------------------
-##  Copyright 2023 SevenPico, Inc.
+##  Copyright 2026 Raring Group LLC
 ##
 ##  Licensed under the Apache License, Version 2.0 (the "License");
 ##  you may not use this file except in compliance with the License.
@@ -16,5 +16,5 @@
 
 ## ----------------------------------------------------------------------------
 ##  ./examples/complete/_providers.tf
-##  This file contains code written only by SevenPico, Inc.
+##  This file contains code written only by Raring Group LLC.
 ## ----------------------------------------------------------------------------

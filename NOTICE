@@ -1,0 +1,10 @@
+terraform-aws-eventbus
+Copyright 2026 Raring Group LLC
+
+This product includes software developed by Raring Group LLC (https://github.com/raringgroup).
+
+Portions of this software, namely _context.tf and examples/complete/_context.tf, are derived from terraform-null-label (https://github.com/cloudposse/terraform-null-label),
+Copyright 2017-2020 Cloud Posse, LLC, licensed under the Apache License, Version 2.0.
+Modifications by Raring Group LLC:
+- The null-label module call (module "this", cloudposse/label/null 0.25.0) is replaced by module "context" sourced from terraform-null-context.
+- Added project, region, domain_name and dns_name_format context inputs not present in upstream.
